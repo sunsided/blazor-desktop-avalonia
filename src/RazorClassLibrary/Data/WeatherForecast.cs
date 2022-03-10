@@ -1,4 +1,4 @@
-namespace BlazorDesktop.Data;
+namespace RazorClassLibrary.Data;
 
 public class WeatherForecast
 {
