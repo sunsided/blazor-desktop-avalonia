@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorDesktop", "src\Blazor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary", "src\RazorClassLibrary\RazorClassLibrary.csproj", "{2864BD8B-F95E-4813-BAAC-4C16B8C10384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaUI", "src\AvaloniaUI\AvaloniaUI.csproj", "{E7381057-86CE-4FF6-88B6-823DE78D1DB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +22,14 @@ Global
 		{2864BD8B-F95E-4813-BAAC-4C16B8C10384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2864BD8B-F95E-4813-BAAC-4C16B8C10384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2864BD8B-F95E-4813-BAAC-4C16B8C10384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7381057-86CE-4FF6-88B6-823DE78D1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7381057-86CE-4FF6-88B6-823DE78D1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7381057-86CE-4FF6-88B6-823DE78D1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7381057-86CE-4FF6-88B6-823DE78D1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E5E66642-80C7-475C-A22A-BD1B4457BDE6} = {A4AAAA7B-15E3-4563-B058-377787793D13}
 		{2864BD8B-F95E-4813-BAAC-4C16B8C10384} = {A4AAAA7B-15E3-4563-B058-377787793D13}
+		{E7381057-86CE-4FF6-88B6-823DE78D1DB5} = {A4AAAA7B-15E3-4563-B058-377787793D13}
 	EndGlobalSection
 EndGlobal
