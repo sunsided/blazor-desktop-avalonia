@@ -20,6 +20,9 @@ see the [Blazor Desktop - hybrid Web and Desktop apps in .NET 6!]
 YouTube video for the inspiration. It relies on a Windows Forms application to include the web view however, 
 so its proposed solution currently only runs on Windows.
 
+Apart from Avalonia, the original epic on Blazor Desktop support, [dotnet/maui#2536](https://github.com/dotnet/maui/issues/2536),
+further states that first class Linux support is currently not planned but might be added in the future.
+
 [Avalonia UI]: https://github.com/AvaloniaUI/Avalonia
 [WebViewControl-Avalonia]: https://github.com/OutSystems/WebView
 [CefGlue]: https://github.com/OutSystems/CefGlue
