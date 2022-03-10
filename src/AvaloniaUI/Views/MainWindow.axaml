@@ -16,10 +16,11 @@
                 VerticalAlignment="Center"
                 Spacing="20">
 
-        <TextBlock Text="{Binding Greeting}"/>
+        <TextBlock Text="{Binding Count}"/>
 
-        <Button Content="Hello World!"
-                HorizontalAlignment="Center"/>
+        <Button Content="Increment Value"
+                HorizontalAlignment="Center"
+                Command="{Binding AddOneCommand}"/>
     </StackPanel>
 
 </Window>
