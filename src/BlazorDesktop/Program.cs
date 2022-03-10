@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
 using RazorClassLibrary.Data;
 
 var builder = WebApplication.CreateBuilder(args);
