@@ -1,6 +1,6 @@
 # Blazor Desktop + Avalonia
 
-TL;DR: Blazor Desktop using [Avalonia UI] currently doesn't work on Linux.
+TL;DR: [Blazor Desktop] using [Avalonia UI] currently doesn't work on Linux.
 
 ---
 
@@ -24,4 +24,5 @@ so its proposed solution currently only runs on Windows.
 [WebViewControl-Avalonia]: https://github.com/OutSystems/WebView
 [CefGlue]: https://github.com/OutSystems/CefGlue
 
+[Blazor Desktop]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/#blazor-desktop-apps
 [Blazor Desktop - hybrid Web and Desktop apps in .NET 6!]: https://www.youtube.com/watch?v=jCR26PkaHmk
